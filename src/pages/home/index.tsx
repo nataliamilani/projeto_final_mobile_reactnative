@@ -33,7 +33,7 @@ export default function Home() {
 
     }
 
-    console.log("testeeeeeeeeee" + products);
+    //console.log("testeeeeeeeeee" + products);
 
     if (!products) return <Text>Carregando...</Text>
 
